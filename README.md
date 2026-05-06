@@ -22,4 +22,4 @@ Game updates directly affect reward efficiency and progression speed.
 
 🏠 Main Guide → brawl-stars-free-rewards **(https://github.com/vertdevin/brawl-stars-free-rewards)**
 - 💎 Gems → brawl-stars-free-gems-guide **(https://github.com/vertdevin/brawl-stars-free-gems-guide)**
-- 🧠 Tips → brawl-stars-rewards-tips **(brawl-stars-free-rewards **(https://github.com/vertdevin/brawl-stars-free-rewards)**
+- 🧠 Tips → brawl-stars-rewards-tips **(brawl-stars-free-rewards **(https://github.com/vertdevin/brawl-stars-rewards-tips)**
